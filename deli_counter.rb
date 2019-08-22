@@ -10,6 +10,7 @@ katz_deli = []
   
   def line(array)
     lngth = array.length
+    cnt = 1
     if lngth < 1
       message = "There is nobody in the line"
     else 
