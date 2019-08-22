@@ -21,5 +21,6 @@ katz_deli = []
         cnt+=1 
       end
     end
+    message
   end
         
