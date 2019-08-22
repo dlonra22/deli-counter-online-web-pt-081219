@@ -7,3 +7,5 @@ katz_deli = []
     message = "Welcome, #{name}. You are number #{number} in the line"
     message
   end
+  
+  def 
