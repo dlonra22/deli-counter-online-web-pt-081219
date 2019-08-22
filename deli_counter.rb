@@ -8,4 +8,5 @@ katz_deli = []
     message
   end
   
-  def lin
+  def line(array)
+    
