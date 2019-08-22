@@ -24,5 +24,3 @@ katz_deli = []
     puts message
   end
        
-  def take_a_number(array, name)
-    array << name
