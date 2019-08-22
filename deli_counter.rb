@@ -17,7 +17,7 @@ katz_deli = []
     else
       cnt = 1
       array.each do |person|
-        message << " #{cnt}. person"
+        message << " #{cnt}. #{person}"
         cnt+=1 
       end
     end
