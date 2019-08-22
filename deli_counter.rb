@@ -13,7 +13,7 @@ katz_deli = []
     message = "The line is currently:"
     
     if lngth < 1
-      message = "There is nobody in the line"
+      message = "The line is currently empty."
     else
       cnt = 1
       array.each do |person|
