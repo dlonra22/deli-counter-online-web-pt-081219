@@ -34,6 +34,7 @@ katz_deli = []
     else
       message = "Currently serving #{serving}."
     end
+    puts message
   end
       
     
