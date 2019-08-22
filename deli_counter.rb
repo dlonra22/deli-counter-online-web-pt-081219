@@ -5,7 +5,7 @@ katz_deli = []
     array << name
     number = array.length
     message = "Welcome, #{name}. You are number #{number} in line"
-    message
+    puts message
   end
   
   def line(array)
