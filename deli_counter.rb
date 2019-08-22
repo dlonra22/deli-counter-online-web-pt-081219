@@ -10,9 +10,14 @@ katz_deli = []
   
   def line(array)
     lngth = array.length
-    cnt = 1
+    message = "The line is currently:"
+    
     if lngth < 1
       message = "There is nobody in the line"
-    else 
+    else
+      cnt = 1
       array.each do |person|
-        message = ""
+        message << " #{cnt}. person"
+        cnt+=1 
+      end
+        
