@@ -32,6 +32,9 @@ katz_deli = []
     if lngth < 1 
       message = "There is nobody waiting to be served!"
     else
+      message = "Currently serving #{serving}."
+    end
+  end
       
     
        
