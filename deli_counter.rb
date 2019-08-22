@@ -20,4 +20,6 @@ katz_deli = []
         message << " #{cnt}. person"
         cnt+=1 
       end
+    end
+  end
         
