@@ -26,5 +26,7 @@ katz_deli = []
   
   def now_serving (array)
     serving = array.shift
+    lngth = array.length
+    
     
        
